@@ -1,0 +1,3 @@
+#!groovy
+
+bookUtil.runPipeline()

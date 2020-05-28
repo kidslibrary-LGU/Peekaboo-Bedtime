@@ -1,0 +1,73 @@
+AR FLOW
+
+
+STAGE 1 - STORYBOARD
+General Comments
+1. One beat animation per page 
+2. Double sided pages: one including the text,one the animation 
+3. Slide to include Page Title, page number, png and text. 
+
+
+
+
+
+
+STAGE 2- CREATIVE VIA UNITY
+See attached unity template 
+1. Models will not exceed 30MB
+2. Textures (no alpha channel where none is needed)
+3. Scale scene according to page placeholder and in the center of the world. 
+4. Lights- maximum two lights per scene. 
+5. Batch & Poly count- optimised should not exceed 60 draw calls and 120,000 triangles (tris)
+6. Do not use “post processing” behaviour ( e.g. camera effects) 
+7. Shaders- use mobile shaders. 
+8. Do not use unity terrains due to their high poly. 
+9. One material per model
+10. When importing each FBX into unity extract material and assign them to the model. 
+11. Character animation- each character consists one rigged model without an animation and one FBX per animation clip without “root motion” (containing only the rig with the respective animation). Construct the scene in the unity timeline (animating “root motion”). 
+12. Do not embed media when exporting from Maya to Unity (FBX).
+13. Do not duplicate assets (FBX, models, animation clips and rigs)  if they haven’t been modified between scenes (keep the generic name). 
+For example: if a character “Adam”  has an idle AnimClip, don't call it “AnimClip_020_Adam_Idle”. Call it “AnimClip_Adam_Idle”. As it’s a common clip.
+14. duplicate materials and animation controllers only if they are modified. 
+15. Particle System: Scaling mode - hierarchy
+16. Lighting Layers: Lights- Culling Mask - everything but ARBook layer (Layer 31). (so it won't light the book).
+
+
+STAGE 3- SAMPLE SCENE VIA UNITY 
+
+
+1. In Unite template- Refer only to read folder 
+2. Export Package per scene 
+3. Do not use older Unity  than  ver. 2018.2
+ 
+
+
+
+Naming conventions:
+
+
+* Model:                          MDL_insert name (MDL_Bunny) 
+* Animations:                     ANIM_###_insert name  (Anim_010_BunnyJump)
+* Materials:                      MAT_insert name  (MAT_Ship) 
+* Textures :                      TEX_insert name_texture type (TEX_Bunny_Albedo)
+* Prefabs:                        PFB_###_insert name (PFB_010_Bunny)
+* Shaders:                        SDR_insert name (SDR_Bunny_Metal/Glass/Fresnel)
+* Scenes:                         SC###_insert name (SC010_Lobby)
+* Scenes with Shots:              SC###_SH##_insert name (SC010_SH01_Lobby)
+* Animation Clips :               AnimClip_###_insert name (AnimClip_010_DoorOpen)
+* Animation Control :             AnimCRL_###_insert name (AnimCRL_010_DoorOpen)
+* Animation Timeline:             TimeLine_###_insert name (TimeLine_010_BunnyJump01)
+* SFX:                          SFX_###_insert name (AUD_010_Hello)
+* Audio Narration:                NAR_### (NAR_010)
+* Audio Background:               BGM_Book Name
+* Macros(Bolt):                   MACRO_###_insert name (MACRO_010_Bunny)
+* Rig:                            RIG_###_insert name (RIG_010_Bunny)
+* Scripts:                        SCR_###_insert name (SCR_010_Hello)
+* ARBook Page Texture:            TEXPG_###_Name
+* Scene Prefab name:              Root_###_Name
+
+
+Minigames scenes:        MiniGame_###_Tapping/Matchall/Match
+Animation scenes:        SC_###_BlahBlah
+Shaders:                 CustomShaders_assetBundle 
+Unity Project Name:      ProductName_NameOfTheBook (ARBook_TheTaleOfPeterRabbit)

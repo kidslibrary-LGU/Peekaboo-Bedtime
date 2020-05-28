@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dbf54e1f9a64a04b25303d03821209a, type: 3}
+  m_Name: SpellingAssetContainer
+  m_EditorClassIdentifier: 
+  _scenePrefab: {fileID: 7322002657329858195, guid: 339c7694b268b444bbb1e4a1e7ee0bdd,
+    type: 3}
+  _positiveFeedbacks:
+  - {fileID: 8300000, guid: 45c5fdd7fcf6cc94f965b774d5b64692, type: 3}
+  - {fileID: 8300000, guid: 0d018405eedff4642ab858dc0b6fa0ab, type: 3}
+  - {fileID: 8300000, guid: c031768452640384a87503f780d46687, type: 3}
+  - {fileID: 8300000, guid: 527211c8f7db97345846dff64bceb94f, type: 3}
+  - {fileID: 8300000, guid: 0de8258ffbe8aa149b2cf24b959df3ac, type: 3}
+  - {fileID: 8300000, guid: b9c108d232c91fc4caeeb5456ed5f3e9, type: 3}
+  - {fileID: 8300000, guid: 4ac517476a44a674293f203fc69bcff2, type: 3}
+  - {fileID: 8300000, guid: 8ea3824b73c36bc4a9866a5138e91dd3, type: 3}
+  - {fileID: 8300000, guid: 53f5b47e24e67ca44957178a5db9d392, type: 3}
+  WordModels: []

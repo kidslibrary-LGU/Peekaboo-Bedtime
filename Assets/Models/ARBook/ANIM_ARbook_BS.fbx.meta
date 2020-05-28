@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 1c9e363ea1124ec49a3f6bedb34c8efa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GRP_ARBook_Root
+    100004: JNT_ARbook
+    100006: JNT_ARbook_L_0
+    100008: JNT_ARbook_L_1
+    100010: JNT_ARbook_L_1 1
+    100012: JNT_ARbook_L_2
+    100014: JNT_ARbook_L_2 1
+    100016: JNT_ARbook_L_3
+    100018: JNT_ARbook_L_3 1
+    100020: JNT_ARbook_L_4
+    100022: JNT_ARbook_L_4 1
+    100024: JNT_ARbook_Mid
+    100026: JNT_ARbook_R_0
+    100028: JNT_ARbook_R_1
+    100030: JNT_ARbook_R_2
+    100032: JNT_ARbook_R_3
+    100034: JNT_ARbook_R_4
+    100036: JNT_ARBook_Root
+    100038: JNT_ARBook_Trans
+    100040: JNT_ARbook_TurnPage
+    100042: joint5
+    100044: MDL_ARBook
+    100046: MDL_Cover
+    100048: MDL_Cover_GRP
+    100050: MDL_PageL
+    100052: MDL_PageR
+    100054: MDL_PagesL
+    100056: MDL_PagesL_GRP
+    100058: MDL_PagesR
+    100060: MDL_PagesR_GRP
+    100062: MDL_PageTurn
+    100064: MDL_PageTurn_GRP
+    100066: RIG_ARBook:GRP_ARBook_Root
+    100068: RIG_ARBook:JNT_ARbook
+    100070: RIG_ARBook:JNT_ARbook_L_0
+    100072: RIG_ARBook:JNT_ARbook_Mid
+    100074: RIG_ARBook:JNT_ARbook_R_0
+    100076: RIG_ARBook:JNT_ARbook_R_1
+    100078: RIG_ARBook:JNT_ARbook_R_2
+    100080: RIG_ARBook:JNT_ARbook_R_3
+    100082: RIG_ARBook:JNT_ARbook_R_4
+    100084: RIG_ARBook:JNT_ARBook_Root
+    100086: RIG_ARBook:JNT_ARBook_Trans
+    100088: RIG_ARBook:JNT_ARbook_TurnPage
+    100090: RIG_ARBook:joint5
+    100092: RIG_ARBook:MDL_ARBook
+    100094: RIG_ARBook:MDL_Cover
+    100096: RIG_ARBook:MDL_Cover_GRP
+    100098: RIG_ARBook:MDL_PageL
+    100100: RIG_ARBook:MDL_PageR
+    100102: RIG_ARBook:MDL_PagesL
+    100104: RIG_ARBook:MDL_PagesL_GRP
+    100106: RIG_ARBook:MDL_PagesR
+    100108: RIG_ARBook:MDL_PagesR_GRP
+    100110: RIG_ARBook:MDL_PageTurn
+    100112: RIG_ARBook:MDL_PageTurn_GRP
+    400000: //RootNode
+    400002: GRP_ARBook_Root
+    400004: JNT_ARbook
+    400006: JNT_ARbook_L_0
+    400008: JNT_ARbook_L_1
+    400010: JNT_ARbook_L_1 1
+    400012: JNT_ARbook_L_2
+    400014: JNT_ARbook_L_2 1
+    400016: JNT_ARbook_L_3
+    400018: JNT_ARbook_L_3 1
+    400020: JNT_ARbook_L_4
+    400022: JNT_ARbook_L_4 1
+    400024: JNT_ARbook_Mid
+    400026: JNT_ARbook_R_0
+    400028: JNT_ARbook_R_1
+    400030: JNT_ARbook_R_2
+    400032: JNT_ARbook_R_3
+    400034: JNT_ARbook_R_4
+    400036: JNT_ARBook_Root
+    400038: JNT_ARBook_Trans
+    400040: JNT_ARbook_TurnPage
+    400042: joint5
+    400044: MDL_ARBook
+    400046: MDL_Cover
+    400048: MDL_Cover_GRP
+    400050: MDL_PageL
+    400052: MDL_PageR
+    400054: MDL_PagesL
+    400056: MDL_PagesL_GRP
+    400058: MDL_PagesR
+    400060: MDL_PagesR_GRP
+    400062: MDL_PageTurn
+    400064: MDL_PageTurn_GRP
+    400066: RIG_ARBook:GRP_ARBook_Root
+    400068: RIG_ARBook:JNT_ARbook
+    400070: RIG_ARBook:JNT_ARbook_L_0
+    400072: RIG_ARBook:JNT_ARbook_Mid
+    400074: RIG_ARBook:JNT_ARbook_R_0
+    400076: RIG_ARBook:JNT_ARbook_R_1
+    400078: RIG_ARBook:JNT_ARbook_R_2
+    400080: RIG_ARBook:JNT_ARbook_R_3
+    400082: RIG_ARBook:JNT_ARbook_R_4
+    400084: RIG_ARBook:JNT_ARBook_Root
+    400086: RIG_ARBook:JNT_ARBook_Trans
+    400088: RIG_ARBook:JNT_ARbook_TurnPage
+    400090: RIG_ARBook:joint5
+    400092: RIG_ARBook:MDL_ARBook
+    400094: RIG_ARBook:MDL_Cover
+    400096: RIG_ARBook:MDL_Cover_GRP
+    400098: RIG_ARBook:MDL_PageL
+    400100: RIG_ARBook:MDL_PageR
+    400102: RIG_ARBook:MDL_PagesL
+    400104: RIG_ARBook:MDL_PagesL_GRP
+    400106: RIG_ARBook:MDL_PagesR
+    400108: RIG_ARBook:MDL_PagesR_GRP
+    400110: RIG_ARBook:MDL_PageTurn
+    400112: RIG_ARBook:MDL_PageTurn_GRP
+    2100000: MAT_ARBookCover
+    2100002: MAT__PageTurn
+    4300000: MDL_PagesR
+    4300002: MDL_PageR
+    4300004: MDL_PagesL
+    4300006: MDL_PageL
+    4300008: MDL_Cover
+    4300010: MDL_PageTurn
+    4300012: RIG_ARBook:MDL_PagesR
+    4300014: RIG_ARBook:MDL_PageR
+    4300016: RIG_ARBook:MDL_PagesL
+    4300018: RIG_ARBook:MDL_PageL
+    4300020: RIG_ARBook:MDL_Cover
+    4300022: RIG_ARBook:MDL_PageTurn
+    7400000: ARBook_PageTurnL2RAnim
+    7400002: ARBook_Open_Anim
+    7400004: ARBook_OpenReversed_Anim
+    7400006: ARBook_Close_Anim
+    7400008: ARBook_CloseReversed_Anim
+    7400010: ARBook_PageTurnR2L_Anim
+    7400012: ARBook_CloseFreez_Anim
+    9500000: //RootNode
+    13700000: MDL_Cover
+    13700002: MDL_PageL
+    13700004: MDL_PageR
+    13700006: MDL_PagesL
+    13700008: MDL_PagesR
+    13700010: MDL_PageTurn
+    13700012: RIG_ARBook:MDL_Cover
+    13700014: RIG_ARBook:MDL_PageL
+    13700016: RIG_ARBook:MDL_PageR
+    13700018: RIG_ARBook:MDL_PagesL
+    13700020: RIG_ARBook:MDL_PagesR
+    13700022: RIG_ARBook:MDL_PageTurn
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_ARBookCover
+    second: {fileID: 2100000, guid: 04fbe83157a83b94ca8aa6bda7ed391e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT__PageTurn
+    second: {fileID: 2100000, guid: 27683e703599b01469564b2ca177b0d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ARBook_PageTurnR2L_Anim
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ARBook_Open_Anim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ARBook_OpenReversed_Anim
+      takeName: Take 001
+      firstFrame: 320
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ARBook_Close_Anim
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ARBook_CloseReversed_Anim
+      takeName: Take 001
+      firstFrame: 220
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ARBook_PageTurnL2RAnim
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ARBook_CloseFreez_Anim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
