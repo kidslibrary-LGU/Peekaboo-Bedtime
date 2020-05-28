@@ -10,10 +10,12 @@
   ],
   "dependencies": {
     "com.inceptionxr.avprovideo": "1.0.3-preview.7.0",
-    "com.inceptionxr.bookplayer": "1.0.4-preview.133.0",
-    "com.inceptionxr.gamekit": "1.0.6-preview.194.0",
-    "com.inceptionxr.iarcore": "1.2.1-preview.39.0",
-    "com.inceptionxr.uitools": "1.0.8-preview.93.0",
+    "com.inceptionxr.bookplayer": "1.0.4-preview.149.0",
+    "com.inceptionxr.gamekit": "1.0.6-preview.220.0",
+    "com.inceptionxr.iarcore": "1.2.1-preview.43.0",
+    "com.inceptionxr.sayitgame": "1.0.5-preview.44.0",
+    "com.inceptionxr.speechrecognition": "1.0.1-preview.34.0",
+    "com.inceptionxr.uitools": "1.0.8-preview.121.0",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.assetbundlebrowser": "1.7.0",
@@ -23,6 +25,7 @@
     "com.unity.package-manager-ui": "2.2.0",
     "com.unity.timeline": "1.1.0",
     "com.unity.ugui": "1.0.0",
+    "com.unity.vectorgraphics": "2.0.0-preview.12",
     "com.unity.xr.legacyinputhelpers": "2.0.6",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
@@ -53,8 +56,6 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.inceptionxr.sayitgame": "1.0.5-preview.39.0",
-    "com.inceptionxr.speechrecognition": "1.0.1-preview.32.0",
     "com.unity.modules.xr": "1.0.0"
   },
   "testables": [

@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _scenePrefab: {fileID: 0}
   _positiveFeedbacks: []
-  _dancePrefab: {fileID: 0}
-  _bgmClip: {fileID: 0}
+  _dancePrefab: {fileID: 3692556703479172047, guid: 2a4bc30bbe203654f864e61c8bb00a69,
+    type: 3}
+  _bgmClip: {fileID: 8300000, guid: b517d925c321a0440906c1803dddaa22, type: 3}

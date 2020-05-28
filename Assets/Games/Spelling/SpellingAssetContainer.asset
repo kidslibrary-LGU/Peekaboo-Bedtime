@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dbf54e1f9a64a04b25303d03821209a, type: 3}
   m_Name: SpellingAssetContainer
   m_EditorClassIdentifier: 
-  _scenePrefab: {fileID: 7322002657329858195, guid: 339c7694b268b444bbb1e4a1e7ee0bdd,
+  _scenePrefab: {fileID: 3434538946217399065, guid: 88aca4bc52a97e34c8e42708177ca9aa,
     type: 3}
   _positiveFeedbacks:
-  - {fileID: 8300000, guid: 45c5fdd7fcf6cc94f965b774d5b64692, type: 3}
-  - {fileID: 8300000, guid: 0d018405eedff4642ab858dc0b6fa0ab, type: 3}
-  - {fileID: 8300000, guid: c031768452640384a87503f780d46687, type: 3}
-  - {fileID: 8300000, guid: 527211c8f7db97345846dff64bceb94f, type: 3}
-  - {fileID: 8300000, guid: 0de8258ffbe8aa149b2cf24b959df3ac, type: 3}
-  - {fileID: 8300000, guid: b9c108d232c91fc4caeeb5456ed5f3e9, type: 3}
-  - {fileID: 8300000, guid: 4ac517476a44a674293f203fc69bcff2, type: 3}
-  - {fileID: 8300000, guid: 8ea3824b73c36bc4a9866a5138e91dd3, type: 3}
-  - {fileID: 8300000, guid: 53f5b47e24e67ca44957178a5db9d392, type: 3}
+  - {fileID: 8300000, guid: 190fd28112c38ed4a88d8a6e8f4b8908, type: 3}
+  - {fileID: 8300000, guid: c0bc224e982e66e40af1eeafbadedc62, type: 3}
+  - {fileID: 8300000, guid: d4c15cf1bd1990449b58dba727aa1761, type: 3}
+  - {fileID: 8300000, guid: 7f6d3703d8e528b46862782f99078913, type: 3}
+  - {fileID: 8300000, guid: 96f9b9ae4c7204f41a6ded5cefe02c15, type: 3}
+  - {fileID: 8300000, guid: 32f8e1835dfcc0f479702ca1259457e6, type: 3}
+  - {fileID: 8300000, guid: f7bb98c8954459945b80c205e149f52c, type: 3}
+  - {fileID: 8300000, guid: 665782964acbf20469afc5921c110c16, type: 3}
+  - {fileID: 8300000, guid: de387f4da0a0e9945a21d2ec9105c8db, type: 3}
   WordModels: []

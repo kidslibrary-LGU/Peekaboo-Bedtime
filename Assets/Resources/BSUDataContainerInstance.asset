@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd35c418465ae84aaaa7f1afc6208b5, type: 3}
+  m_Name: BSUDataContainerInstance
+  m_EditorClassIdentifier: 
+  _assets:
+    _items:
+    - key: Assets/BSU/Root_Main.prefab
+      value: {fileID: 5161478733356679485, guid: ee90a58bdce811147877550ee34e6260,
+        type: 3}
+    - key: Assets/BSU/spreads/spread_1000/NAR_1000_PeekabooBedtime.mp3
+      value: {fileID: 8300000, guid: 3c9dc523e4109cc409301f885cb60718, type: 3}
+    - key: Assets/BSU/spreads/spread_1000/ASS_1000_PeekabooBedtime.txt
+      value: {fileID: 4900000, guid: 8fc5e3d9b7b2ded479d32248ac26aa66, type: 3}
+    - key: Assets/BSU/spreads/spread_1010/Root_1010_INTRO_Interactive.prefab
+      value: {fileID: 7809478563995775391, guid: 6039a8620e50b4e4bab6c0310e94c45d,
+        type: 3}
+    - key: Assets/BSU/spreads/spread_1010/TEXPG_1010.jpg
+      value: {fileID: 2800000, guid: b9e71b8e1a13844a190f01157e976aa5, type: 3}
+    - key: Assets/BSU/spreads/spread_1010/NAR_1010_Interactive_INTRO.mp3
+      value: {fileID: 8300000, guid: 57b9eed2f758c584e8e7d259e32d26c3, type: 3}
+    - key: Assets/BSU/spreads/spread_1010/ASS_1010_Empty.txt
+      value: {fileID: 4900000, guid: a3dd4957eb35c06429fe0634fba3a8c4, type: 3}
+    - key: Assets/BSU/spreads/spread_1020/Root_1020_Peekaboo-Bedtime.prefab
+      value: {fileID: 668880110731000099, guid: ee4f3d8ab3ca33e47931209071eae445,
+        type: 3}
+    - key: Assets/BSU/spreads/spread_1020/TEXPG_1020.jpg
+      value: {fileID: 2800000, guid: 12818bc173d90ea439fcfe3a6b03cdd8, type: 3}
+    - key: Assets/BSU/spreads/spread_1020/NAR_1020_PeekabooBedtime.mp3
+      value: {fileID: 8300000, guid: 4d9ea0222f0573f409c567b018de8843, type: 3}
+    - key: Assets/BSU/spreads/spread_1020/ASS_1020_PeekabooBedtime.txt
+      value: {fileID: 4900000, guid: 281074acbbe226742b61a6a5814d811d, type: 3}
+    - key: Assets/BSU/spreads/spread_1030/Root_1030_Peekaboo-Bedtime.prefab
+      value: {fileID: 3292140717119215849, guid: 85ca2bef265bac04c8138acbca46391b,
+        type: 3}
+    - key: Assets/BSU/spreads/spread_1030/TEXPG_1030.jpg
+      value: {fileID: 2800000, guid: 63a19ebcc522ece4286fa2da4c563620, type: 3}
+    - key: Assets/BSU/spreads/spread_1030/NAR_1030_PeekabooBedtime.mp3
+      value: {fileID: 8300000, guid: cca435c0a8ef4ca45baa6707849e4990, type: 3}
+    - key: Assets/BSU/spreads/spread_1030/ASS_1030_PeekabooBedtime.txt
+      value: {fileID: 4900000, guid: f5355349be8ca034ea78b290b8f39b39, type: 3}
+    - key: Assets/BSU/spreads/spread_1040/Root_1040_Peekaboo-Bedtime.prefab
+      value: {fileID: 2781290541941282986, guid: 58b4cb05dde5d264ea4173468feeb59a,
+        type: 3}
+    - key: Assets/BSU/spreads/spread_1040/TEXPG_1040.jpg
+      value: {fileID: 2800000, guid: 8085f10fc79bff641a9f32105dd2802f, type: 3}
+    - key: Assets/BSU/spreads/spread_1040/NAR_1040_PeekabooBedtime.mp3
+      value: {fileID: 8300000, guid: c51abd9b00af9494f8d8126ddbf9d9f7, type: 3}
+    - key: Assets/BSU/spreads/spread_1040/ASS_1040_PeekabooBedtime.txt
+      value: {fileID: 4900000, guid: 429f5b4be0ef23849a750faadcf0fb6c, type: 3}
+    - key: Assets/BSU/spreads/spread_1050/Root_1050_Peekaboo-Bedtime.prefab
+      value: {fileID: 6530867408789759478, guid: e6cb2b7e8be09fe48995e79f501fe5f7,
+        type: 3}
+    - key: Assets/BSU/spreads/spread_1050/TEXPG_1050.jpg
+      value: {fileID: 2800000, guid: 8677c8fc5b8b5bb4c8c4cbfeaee6effc, type: 3}
+    - key: Assets/BSU/spreads/spread_1050/NAR_1050_PeekabooBedtime.mp3
+      value: {fileID: 8300000, guid: 7e4672eb81021cb4eab287ca06a54342, type: 3}
+    - key: Assets/BSU/spreads/spread_1050/ASS_1050_PeekabooBedtime.txt
+      value: {fileID: 4900000, guid: eb067ec3887771d43a85359d6335f435, type: 3}
+    - key: Assets/BSU/spreads/spread_1060/Root_1060_Peekaboo-Bedtime.prefab
+      value: {fileID: 2645801294145477403, guid: b33fe649dde8b5d47a27b85abcd1f11a,
+        type: 3}
+    - key: Assets/BSU/spreads/spread_1060/TEXPG_1060.jpg
+      value: {fileID: 2800000, guid: be6826f76fb3b3a4f80d536c7ec9a14e, type: 3}
+    - key: Assets/BSU/spreads/spread_1060/NAR_1060_PeekabooBedtime.mp3
+      value: {fileID: 8300000, guid: 6740aecf6b6e02c4e8caa5cb1810e034, type: 3}
+    - key: Assets/BSU/spreads/spread_1060/ASS_1060_PeekabooBedtime.txt
+      value: {fileID: 4900000, guid: f94da4ee676e40440b4b289a28597a94, type: 3}
+    - key: Assets/BSU/spreads/spread_1070/ASS_1070_Empty.txt
+      value: {fileID: 4900000, guid: 127fe53156d32ca4ba6583e0b0eef8db, type: 3}
+  _spreads:
+  - spreads:
+    - texture: 
+      prefabAssetBundles: []
+      index: 0
+      sound: Assets/BSU/spreads/spread_1000/NAR_1000_PeekabooBedtime.mp3
+      subtitle: Assets/BSU/spreads/spread_1000/ASS_1000_PeekabooBedtime.txt
+      music: 
+      video: 
+      isInteractive: 0
+      swipeIndicatorAppearTimeOverride: 0
+      supportDeviceMode: 0
+    - texture: Assets/BSU/spreads/spread_1010/TEXPG_1010.jpg
+      prefabAssetBundles:
+      - Assets/BSU/spreads/spread_1010/Root_1010_INTRO_Interactive.prefab
+      index: 0
+      sound: Assets/BSU/spreads/spread_1010/NAR_1010_Interactive_INTRO.mp3
+      subtitle: Assets/BSU/spreads/spread_1010/ASS_1010_Empty.txt
+      music: 
+      video: 
+      isInteractive: 0
+      swipeIndicatorAppearTimeOverride: 0
+      supportDeviceMode: 0
+    - texture: Assets/BSU/spreads/spread_1020/TEXPG_1020.jpg
+      prefabAssetBundles:
+      - Assets/BSU/spreads/spread_1020/Root_1020_Peekaboo-Bedtime.prefab
+      index: 0
+      sound: Assets/BSU/spreads/spread_1020/NAR_1020_PeekabooBedtime.mp3
+      subtitle: Assets/BSU/spreads/spread_1020/ASS_1020_PeekabooBedtime.txt
+      music: 
+      video: 
+      isInteractive: 0
+      swipeIndicatorAppearTimeOverride: 0
+      supportDeviceMode: 0
+    - texture: Assets/BSU/spreads/spread_1030/TEXPG_1030.jpg
+      prefabAssetBundles:
+      - Assets/BSU/spreads/spread_1030/Root_1030_Peekaboo-Bedtime.prefab
+      index: 0
+      sound: Assets/BSU/spreads/spread_1030/NAR_1030_PeekabooBedtime.mp3
+      subtitle: Assets/BSU/spreads/spread_1030/ASS_1030_PeekabooBedtime.txt
+      music: 
+      video: 
+      isInteractive: 0
+      swipeIndicatorAppearTimeOverride: 0
+      supportDeviceMode: 0
+    - texture: Assets/BSU/spreads/spread_1040/TEXPG_1040.jpg
+      prefabAssetBundles:
+      - Assets/BSU/spreads/spread_1040/Root_1040_Peekaboo-Bedtime.prefab
+      index: 0
+      sound: Assets/BSU/spreads/spread_1040/NAR_1040_PeekabooBedtime.mp3
+      subtitle: Assets/BSU/spreads/spread_1040/ASS_1040_PeekabooBedtime.txt
+      music: 
+      video: 
+      isInteractive: 0
+      swipeIndicatorAppearTimeOverride: 0
+      supportDeviceMode: 0
+    - texture: Assets/BSU/spreads/spread_1050/TEXPG_1050.jpg
+      prefabAssetBundles:
+      - Assets/BSU/spreads/spread_1050/Root_1050_Peekaboo-Bedtime.prefab
+      index: 0
+      sound: Assets/BSU/spreads/spread_1050/NAR_1050_PeekabooBedtime.mp3
+      subtitle: Assets/BSU/spreads/spread_1050/ASS_1050_PeekabooBedtime.txt
+      music: 
+      video: 
+      isInteractive: 0
+      swipeIndicatorAppearTimeOverride: 0
+      supportDeviceMode: 0
+    - texture: Assets/BSU/spreads/spread_1060/TEXPG_1060.jpg
+      prefabAssetBundles:
+      - Assets/BSU/spreads/spread_1060/Root_1060_Peekaboo-Bedtime.prefab
+      index: 0
+      sound: Assets/BSU/spreads/spread_1060/NAR_1060_PeekabooBedtime.mp3
+      subtitle: Assets/BSU/spreads/spread_1060/ASS_1060_PeekabooBedtime.txt
+      music: 
+      video: 
+      isInteractive: 0
+      swipeIndicatorAppearTimeOverride: 0
+      supportDeviceMode: 0
+    - texture: 
+      prefabAssetBundles: []
+      index: 0
+      sound: 
+      subtitle: Assets/BSU/spreads/spread_1070/ASS_1070_Empty.txt
+      music: 
+      video: 
+      isInteractive: 0
+      swipeIndicatorAppearTimeOverride: 0
+      supportDeviceMode: 0
+    rootAssetBundle: Assets/BSU/Root_Main.prefab
+    spreadsThumbnailAssetBundle: 
+    numberOfPreliminaryPrepareResourcesPerSide: 2
+  _allBSUFolders:
+  - Assets/BSU

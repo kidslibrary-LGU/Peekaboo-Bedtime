@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _scenePrefab: {fileID: 0}
   _positiveFeedbacks: []
-  Models: []
+  Models:
+  - ModelPrefab: {fileID: 2575244050307413426, guid: 98bb666b8af27484eaa8e8821f184dc2,
+      type: 3}
+    Outline: {fileID: 2800000, guid: 498fad58f93442a4e9e11d8792afaa01, type: 3}
+    Revealed: {fileID: 2800000, guid: 2d19ee819e5e4ee4e93f11ed088dcf08, type: 3}
+    RealTexture: {fileID: 2800000, guid: a5638e51aaf99854794214bfb06a21fd, type: 3}
+    FaceTexture: {fileID: 2800000, guid: b713aa9aa5e26304eb69df9fa1d1680b, type: 3}
